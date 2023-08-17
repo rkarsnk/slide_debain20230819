@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="wS4t49xKMnZcuZyGPL0F" name="ページ1">
+        <mxGraphModel dx="602" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="lb config" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Courier New;fontSize=21;fontColor=default;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="70" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="config" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#000000;fillColor=#fff2cc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="165" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="60" width="28.000000000000004" height="28.000000000000004" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="1" style="endArrow=classic;html=1;fontFamily=Courier New;fontSize=25;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;labelBackgroundColor=default;labelBorderColor=none;fontStyle=0;strokeColor=default;curved=1;endSize=13;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="590" as="sourcePoint"/>
+                        <mxPoint x="340" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="カスタム" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Courier New;fontSize=21;fontColor=default;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="180" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="2" style="endArrow=classic;html=1;fontFamily=Courier New;fontSize=25;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;labelBackgroundColor=default;labelBorderColor=none;fontStyle=0;strokeColor=default;curved=1;endSize=13;" edge="1" parent="1" source="12" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="176.63" as="sourcePoint"/>
+                        <mxPoint x="370" y="253.37418604651168" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="lb build" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Courier New;fontSize=21;fontColor=default;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="290" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="3" style="endArrow=classic;html=1;strokeWidth=3;fontFamily=Courier New;fontSize=25;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=none;fontStyle=0;strokeColor=default;curved=1;endSize=13;" edge="1" parent="1" source="6" target="14">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="590" as="sourcePoint"/>
+                        <mxPoint x="340" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.command_line;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="280" width="28.000000000000004" height="28.000000000000004" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
